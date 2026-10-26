@@ -2,7 +2,7 @@
 
 Demo Link : https://ai-saving.netlify.app/
 
-Full Document : 
+Full Document : https://1drv.ms/w/c/A4AA4BCFAE29EAB4/IQCFw0k5DOh0Q6NXLTifv0H_AbtsX53LRDZrjMD6gCwRiY0?e=1oEmEQ
 
 **SAVEIQ** is a smart financial goal tracker and planning application. This specific distribution is a standalone, fully client-side, **Netlify-ready version** optimized for instant, zero-config deployment. 
 
